@@ -1,4 +1,4 @@
-# Project Name
+# 4HospiceRx Backend
 
 This is a template project for backend development using Typescript, Node.js, Express, Mongoose, Bcrypt, JWT, NodeMailer, Multer, ESLint, and Prettier. The aim is to reduce setup time for new backend projects.
 
@@ -72,7 +72,7 @@ Ensure you have the following installed:
    ```env
    # Basic
    NODE_ENV=development
-   DATABASE_URL=mongodb://127.0.0.1:27017/project_name
+   DATABASE_URL=mongodb://127.0.0.1:27017/4HospiceRx
    IP_ADDRESS=10.10.7.101
    PORT=5000
    #Bcrypt
@@ -111,4 +111,4 @@ Explain how to run the automated tests for this system.
 npm test
 ```
 
-# TS-Template
+

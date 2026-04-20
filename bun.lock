@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "educoin-backend",
+      "name": "4hospicerx-backend",
       "dependencies": {
         "bcryptjs": "^3.0.3",
         "colors": "^1.4.0",
